@@ -1,10 +1,10 @@
-# PCBuilder 🖥️
+# PCBuilder
 
 Platform e-commerce berbasis web untuk membantu pengguna merakit PC custom dengan fitur cek kompatibilitas komponen secara real-time. Dibangun menggunakan Laravel 13 dengan sistem multi-role (Admin, Seller, Buyer).
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 - **PC Builder** — Rakit PC custom dengan cek kompatibilitas otomatis antar komponen (CPU, GPU, RAM, Motherboard, PSU, Storage, Case, Cooler)
 - **Multi-Role System** — Tiga peran pengguna: Admin, Seller, dan Buyer
@@ -18,7 +18,7 @@ Platform e-commerce berbasis web untuk membantu pengguna merakit PC custom denga
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Teknologi |
 |-------|-----------|
@@ -30,7 +30,7 @@ Platform e-commerce berbasis web untuk membantu pengguna merakit PC custom denga
 
 ---
 
-## 👥 Role Pengguna
+## Role Pengguna
 
 | Role | Akses |
 |------|-------|
@@ -40,7 +40,7 @@ Platform e-commerce berbasis web untuk membantu pengguna merakit PC custom denga
 
 ---
 
-## ⚙️ Instalasi
+## Instalasi
 
 ### 1. Clone Repository
 
@@ -95,7 +95,7 @@ Akses aplikasi di `http://127.0.0.1:8000`
 
 ---
 
-## 🗂️ Struktur Database
+## Struktur Database
 
 | Tabel | Keterangan |
 |-------|------------|
@@ -107,16 +107,16 @@ Akses aplikasi di `http://127.0.0.1:8000`
 
 ---
 
-## 🔗 Alur Penggunaan
+## Alur Penggunaan
 
 ```
-Browse Katalog → Tambah ke Cart → PC Builder (cek kompatibilitas)
-    → Checkout → Pembayaran (Midtrans) → Order Tracking
+Browse Katalog -> Tambah ke Cart -> PC Builder (cek kompatibilitas)
+    -> Checkout -> Pembayaran (Midtrans) -> Order Tracking
 ```
 
 ---
 
-## 📁 Struktur Direktori Penting
+## Struktur Direktori Penting
 
 ```
 app/
@@ -138,12 +138,12 @@ app/
 
 ---
 
-## 🧑‍💻 Developer
+## Developer
 
 - **Robert Stuart** — [GitHub](https://github.com/RobertStuart11)
 
 ---
 
-## 📄 Lisensi
+## Lisensi
 
 Project ini dibuat untuk keperluan akademik.
